@@ -1,6 +1,8 @@
 # Very-Simple-Youtube-Player
  Learning how to use a third party API by using Youtube Data API to launch a Youtube video as an activity, or in a standalone player.
  
+ ![Main Activity](https://i.imgur.com/Exrowef.jpg)
+ 
  The starting activity has two buttons:
  
  Play a Single Video button launches a Youtube Video as a YoutubePlayerView, which also means I can receive Play and Pause events inside my code.
